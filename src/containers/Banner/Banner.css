@@ -1,0 +1,12 @@
+.background{
+    background-image: url('./bg.jpg.jfif');
+    height: 100vh;
+}
+.title-size{
+    font-weight: 900;
+    font-size: 1000%;
+}
+.sec-title{
+    font-weight: 400;
+    font-size: 600%;
+}
